@@ -90,7 +90,7 @@ UI: Gradio accepts query → Displays RAG response.
 
 **Installation**
 Clone the repository and install dependencies in a Python 3.8+ environment.
-git clone https://github.com/your-username/ppc-rag-chatbot.git
+git clone https://github.com/Aman017Javed/ppc-rag-chatbot.git
 cd ppc-rag-chatbot
 pip install -r requirements.txt
 
